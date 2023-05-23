@@ -1,0 +1,49 @@
+@media screen and (min-width: 390px){
+    body {
+        background-color: rgb(255, 255, 255);
+    }
+
+  img{
+    position: relative;
+    margin-top: -20%;
+    
+  }
+
+  #nav-bar{
+    position: relative;
+    font-size: 20px;
+    list-style-type: none;
+    width: 104%;
+    right: 2%;
+    margin-top: -13%;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    position: relative;
+    right: 29%;
+    display: block;
+    font-family: 'Germania One', cursive;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  #on-sale{
+    font-family: 'Nosifer', cursive;
+  }
+
+#sneaker{
+    position: absolute;
+    right: 73%;
+    font-family: 'Germania One', cursive;
+    background-color: rgb(255, 255, 255);
+} 
+
